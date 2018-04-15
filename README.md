@@ -40,7 +40,6 @@
 
 <div>
 <img src="https://github.com/LEGOLLAS/MyPortfolio/blob/master/images/healing_main.PNG" width="90%"></img>
-<img src="https://github.com/LEGOLLAS/MyPortfolio/blob/master/images/horse_main.PNG" width="90%"></img>
 </div>
 ### 적용 기술
 - `HTML5`
@@ -50,7 +49,9 @@
 
 ## [제주대학교 말산업전문인력양성센터](작업 진행중)(https://github.com/LEGOLLAS/Working.git)
 
-![horse_main](./images/horse_main.png)
+<div>
+<img src="https://github.com/LEGOLLAS/MyPortfolio/blob/master/images/horse_main.PNG" width="90%"></img>
+</div> 
  
 ### 사용한 기술
 - `HTML5`
