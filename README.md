@@ -41,6 +41,7 @@
 <div>
 <img src="https://github.com/LEGOLLAS/MyPortfolio/blob/master/images/healing_main.PNG" width="90%"></img>
 </div>
+
 ### 적용 기술
 - `HTML5`
 - `CSS3` 
@@ -53,7 +54,7 @@
 <img src="https://github.com/LEGOLLAS/MyPortfolio/blob/master/images/horse_main.PNG" width="90%"></img>
 </div> 
  
-### 사용한 기술
+### 적용 기술
 - `HTML5`
 - `CSS3` 
 - `JavaScript`
