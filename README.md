@@ -38,7 +38,7 @@
 
 ## [제주특별자치도 환경성질환예방관리센터 비자숲힐링센터](http://www.jejuatopycenter.kr/)
 
-<img src="images/healing_main.png" width="150" hspace="2">
+![healing_main](./images/healing_main.png)
 
 ### 적용 기술
 - `HTML5`
@@ -48,7 +48,7 @@
 
 ## [제주대학교 말산업전문인력양성센터](작업 진행중)(https://github.com/LEGOLLAS/Working.git)
 
-<img src="images/horse_main.png" width="150" hspace="2">
+![horse_main](./images/horse_main.png)
  
 ### 사용한 기술
 - `HTML5`
