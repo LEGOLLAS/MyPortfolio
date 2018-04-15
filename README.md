@@ -49,7 +49,7 @@
 ## [제주대학교 말산업전문인력양성센터](작업 진행중)(https://github.com/LEGOLLAS/Working.git)
 
 <img src="images/horse_main.png" width="150" hspace="2">
-
+ 
 ### 사용한 기술
 - `HTML5`
 - `CSS3` 
