@@ -38,8 +38,10 @@
 
 ## [제주특별자치도 환경성질환예방관리센터 비자숲힐링센터](http://www.jejuatopycenter.kr/)
 
-![healing_main](./images/healing_main.png)
-
+<div>
+<img src="https://github.com/LEGOLLAS/MyPortfolio/blob/master/images/healing_main.PNG" width="90%"></img>
+<img src="https://github.com/LEGOLLAS/MyPortfolio/blob/master/images/horse_main.PNG" width="90%"></img>
+</div>
 ### 적용 기술
 - `HTML5`
 - `CSS3` 
